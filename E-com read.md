@@ -1,3 +1,3 @@
 # Info
 
-Description
+Description of the project
